@@ -15,7 +15,7 @@
 <h3 align="left">Entre em contato comigo:</h3>
 <p align="left">
 <a href="https://github.com/DSanches92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="DSanches92" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/danilo-sanches" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danilo-sanches" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/danilo-sanches-5981601a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danilo-sanches" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
@@ -25,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DSanches92&show_icons=true&locale=pt-br" alt="DSanches92" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=DSanches92&hide_border=true&locale=pt_BR&short_numbers=true" alt="DSanches92" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DSanches92&hide_border=true&locale=pt_BR&short_numbers=true)](https://git.io/streak-stats)

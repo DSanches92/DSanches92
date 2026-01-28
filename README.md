@@ -24,5 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DSanches92&show_icons=true&locale=pt-br&layout=compact" alt="DSanches92" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DSanches92&show_icons=true&locale=pt-br" alt="DSanches92" /></p>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DSanches92&hide_border=true&locale=pt_BR&short_numbers=true)](https://git.io/streak-stats)
